@@ -15,7 +15,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Kaggle: Titanic & House Prices** | AI 기초 스터디 후 진행한 데이터 분석 | [View Code](링크) |
-| **PnP Algorithm Study** | 매주 진행하는 알고리즘 문제 풀이 아카이브 | [View Blog](링크) |
+| **PnP Algorithm Study** | 매주 진행했던 알고리즘 문제 풀이 아카이브 | [View Blog](링크) |
 
 <br/>
 <div align="center">
